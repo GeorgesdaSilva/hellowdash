@@ -13,7 +13,7 @@ export default function() {
       <div className="navbar-brand">
         <Link href="/">
           <a className="navbar-item">
-            <img src="/img/logo.png" width="66" height="28"/>
+            <img src="/img/logo.png"  width="35"/>
           </a>
         </Link>
 
